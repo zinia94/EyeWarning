@@ -6,16 +6,15 @@ I have developed a Smartphone based application which monitors the face of the d
 1. Hardware
 - Android Device with minimum sdk 21
 - Mobile stand for vehicles
-
 2. Software
--download OpenCV Manager from google playstore
--store shape_predictor_68_face_landmark.dat in internal storage of the android device from google playstore
--Run the application
+- download OpenCV Manager from google playstore
+- store shape_predictor_68_face_landmark.dat in internal storage of the android device from google playstore
+- Run the application
 
 # What I used
--Opencv Library
--Dlib library
--Android Studio
+- Opencv Library
+- Dlib library
+- Android Studio
 
 # Implementation
 
