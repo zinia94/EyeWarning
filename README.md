@@ -1,0 +1,4 @@
+# EyeWarning
+I have developed a Smartphone based application which monitors the face of the driver in real time and alerts the driver when it finds closed/nearly closed eyes more than 2 seconds. I have used the front camera of the Smartphone to monitor the face of the user in real time. Drivers need to have mobile stands for vehicles to use the system in real world.
+
+
