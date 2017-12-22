@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.user.drowsinessdetection.Instruction">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="20dp"
+        android:text="Drowsiness detection is an android application that will help you to stay focused during driving.\n\nInstruction to use the application:\n\n     1. At first set the mobile with car's mobile holder.\n     2. Then click the button below.\n     3. Set the mobile so that the green rectangle can surround your face.\n     4. Stay awake and focused for two minutes so that the app can read the size of your eyes, your position and can adjust the threshold.\n     5. A voice notification will alert you when the thresholds have been set.\n     6. After then the app will keep you focused during driving.\nAfter you have read the Instructions then click the button below:\n"
+        android:id="@+id/textView" />
+
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/Widget.AppCompat.Button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#3bd68b"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:text="Let's start!"
+        android:visibility="visible"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+
+
+
+
+</RelativeLayout>
+
