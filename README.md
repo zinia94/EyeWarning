@@ -17,7 +17,10 @@ I have developed a Smartphone based application which monitors the face of the d
 - Android Studio
 
 # Implementation
+![alt text](https://github.com/zinia94/EyeWarning/blob/master/2017_11_26_18_21_32.png)
 
+
+![alt text](https://github.com/zinia94/EyeWarning/blob/master/24232943_2054786031421774_6741058583536357259_n%20(1).jpg)
 
 
 
