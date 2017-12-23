@@ -11,7 +11,7 @@ I have developed a Smartphone based application which monitors the face of the d
 - Mobile stand for vehicles
 2. Software
 - download OpenCV Manager from google playstore
-- store shape_predictor_68_face_landmark.dat in internal storage of the android device from google playstore
+- Download shape_predictor_68_face_landmark.dat and store in internal storage of the android device
 - Run the application
 
 # What I used
