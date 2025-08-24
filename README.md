@@ -1,6 +1,6 @@
 # EyeWarning
 
-For my undergraduate final year project, I developed an Android-based drowsiness detection system utilizing image processing techniques. The result is a smartphone application that monitors a driver's face in real time, alerting them if their eyes remain closed or nearly closed for more than two seconds. This application uses the smartphone's front camera to continuously observe the driver's face. To effectively use this system in real-world scenarios, drivers will need a mobile stand to secure their phones within their vehicles.
+I developed an Android-based drowsiness detection system utilizing image processing techniques. The result is a smartphone application that monitors a driver's face in real time, alerting them if their eyes remain closed or nearly closed for more than two seconds. This application uses the smartphone's front camera to continuously observe the driver's face. To effectively use this system in real-world scenarios, drivers will need a mobile stand to secure their phones within their vehicles.
 
 
 # Requirements
